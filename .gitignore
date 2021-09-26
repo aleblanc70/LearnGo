@@ -13,3 +13,8 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+/.idea/LearnGo.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/workspace.xml
+/.vscode/launch.json
